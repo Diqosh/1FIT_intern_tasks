@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "phone": "77772810707:",
+      "email": "example@gmail.com:",
+      "second_name": "Surname:",
+      "name": "Diqosh1",
+      "birth_date": "2090-10-10",
+      "start_work": "2090-10-10",
+      "gender": "male:",
+      "department": "front:",
+      "position": "TeamLead:",
+      "role": "some role:",
+      "country": "Kazakhstan:",
+      "city": "Almaty:",
+      "password": "password:",
+      "re_password": "password:"
+    },
+    {
+      "id": 2,
+      "phone": "77772810707:",
+      "email": "example@gmail.com:",
+      "second_name": "Surname:",
+      "name": "Diqosh2",
+      "birth_date": "2090-10-10",
+      "start_work": "2090-10-10",
+      "gender": "male:",
+      "department": "front:",
+      "position": "TeamLead:",
+      "role": "some role:",
+      "country": "Kazakhstan:",
+      "city": "Almaty:",
+      "password": "password:",
+      "re_password": "password:"
+    },
+    {
+      "id": 3,
+      "phone": "77772810707:",
+      "email": "example@gmail.com:",
+      "second_name": "Surname:",
+      "name": "Diqosh3",
+      "birth_date": "2090-10-10",
+      "start_work": "2090-10-10",
+      "gender": "male:",
+      "department": "front:",
+      "position": "TeamLead:",
+      "role": "some role:",
+      "country": "Kazakhstan:",
+      "city": "Almaty:",
+      "password": "password:",
+      "re_password": "password:"
+    },
+    {
+      "phone": "+7(123)123-12-31",
+      "role": "3",
+      "city": "2",
+      "password": "qwe",
+      "re_password": "qwe",
+      "id": 4
+    },
+    {
+      "phone": "77772810707",
+      "email": "example@gmail.com",
+      "second_name": "Surname",
+      "name": "Diqosh11",
+      "birth_date": "2090-10-09T18:00:00.000Z",
+      "start_work": "2090-10-09T18:00:00.000Z",
+      "gender": "male",
+      "department": "front",
+      "position": "TeamLead",
+      "role": "some role",
+      "country": "Kazakhstan",
+      "city": "Almaty",
+      "password": "password",
+      "re_password": "password",
+      "id": 5
+    }
+  ]
+}
